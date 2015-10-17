@@ -28,6 +28,7 @@ export default class App extends Component {
             }
           }
           hideCardIOLogo={ true }
+          detectionMode={ CardIOConstants.DETECTION_MODE.AUTOMATIC }
           onSuccess={
             ( cardInfo ) => console.log(cardInfo)
           }
