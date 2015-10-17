@@ -13,8 +13,8 @@
     "babel-runtime": "^5.8.24",
     "react": "^0.13.3",
     "react-hot-loader": "^1.2.4",
-    "react-native": "^0.11.4",
-    "react-native-card.io": "^0.1.1"
+    "react-native-card.io": "^0.1.1",
+    "react-native": "^0.12.0"
   },
   "devDependencies": {
     "webpack": "^1.8.4",
@@ -22,6 +22,6 @@
     "babel-plugin-dunderscore-dev-inline": "^1.0.1",
     "babel-plugin-node-env-inline": "^1.0.1",
     "jsx-loader": "^0.13.2",
-    "react-native-webpack-server": "^0.4.0-rc"
+    "react-native-webpack-server": "^0.7.2"
   }
 }
