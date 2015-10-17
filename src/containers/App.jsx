@@ -3,7 +3,7 @@ import React, {
   View,
 } from 'react-native';
 
-import CardIO from 'react-native-card.io/ios';
+import CardIO, { CardIOConstants } from 'react-native-card.io';
 
 export default class App extends Component {
 
