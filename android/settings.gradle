@@ -1,0 +1,6 @@
+rootProject.name = 'CardIOExample'
+
+include ':app'
+include ':react-native-card.io'
+
+project(':react-native-card.io').projectDir = new File(settingsDir, '../node_modules/react-native-card.io')
